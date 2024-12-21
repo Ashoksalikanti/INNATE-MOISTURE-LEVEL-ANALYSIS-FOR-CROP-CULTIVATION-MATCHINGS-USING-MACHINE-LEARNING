@@ -1,0 +1,2 @@
+First click on newkernel>   and type cmd
+then in cd streamlit run app.py
